@@ -1,0 +1,4 @@
+auto:	true
+server:	true
+categories: pretty
+sever_port: 4000
